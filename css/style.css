@@ -1,0 +1,11 @@
+.spn-img  img{
+    width: 100%;
+}
+.no-border {
+    border: none;
+    box-shadow: 5px 5px 5px #d1d0d0;
+    border-radius: 10px;
+}
+.card-image-background {
+    background-color: wheat;
+}
